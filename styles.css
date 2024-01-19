@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+body{
+            background-color: yellow;
+            padding: 20px;
+        
+        }
+        p{
+            text-align: center;
+        }
+        img{
+            display: inline;
+            width: 40vw;
+            height: 60vh;
+            border: 5px solid black;
+        }
